@@ -1,6 +1,6 @@
 import time
 
-x = "                                                             [+] Attacking garatied_to, " + a
+x = "                                                             [+] Attacking garatied_to, " 
 y = "                                                             [+] database access"
 z = "                                                             [+] wait system"
 g = "                                                             [-] ERROR-560 NO ACCESS GARANTIED"
